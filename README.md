@@ -1,15 +1,15 @@
-Hi 👋 My name is HuanCheng Bai
+Hi 👋 My name is Jimmy Hao
 ==============================
 
 Ultimate Developer
 ------------------
 
 * 🌍  I'm based in China
-* 🖥️  See my portfolio at [博客](http://www.ixiqin.com)
-* ✉️  You can contact me at [bestony@linux.com](mailto:bestony@linux.com)
-* 🚀  I'm currently working on [WPStore.app](https://wpstore.app)
-* 🧠  I'm learning Machine Learning
-* ⚡  YOLO
+* 🖥️  See my portfolio at [博客](http://www.jimmyxuexue.top)
+* ✉️  You can contact me at [1002661758@qq.com](mailto:1002661758@qq.com)
+* 🚀  I'm currently working on [Shiheng Tech](https://www.shihengtech.com/)
+* 🧠  I'm learning React、TypeScript
+* ⚡  YOLO
 
 <a href="https://www.twitter.com/xiqingongzi" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/xiqingongzi?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"
