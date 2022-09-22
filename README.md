@@ -1,27 +1,23 @@
-Hi 👋 My name is Jimmy Hao
-==============================
+# Hi 👋 My name is Jimmy Hao
 
-Ultimate Developer
-------------------
+## Ultimate Developer
 
-* 🌍  I'm based in China
-* 🖥️  See my portfolio at [博客](http://www.jimmyxuexue.top)
-* ✉️  You can contact me at [1002661758@qq.com](mailto:1002661758@qq.com)
-* 🚀  I'm currently working on [Shiheng Tech](https://www.shihengtech.com/)
-* 🧠  I'm learning React、TypeScript
-* ⚡  YOLO
+- 🌍  I'm based in China
+- 🖥️ See my portfolio at [博客](http://www.jimmyxuexue.top)
+- ✉️ You can contact me at [1002661758@qq.com](mailto:1002661758@qq.com)
+- 🚀 I'm currently working on [Fuzhou Tastien Catering Operation Co](https://www.tastien.com/)
+- 🧠 I'm learning React、TypeScript
+- ⚡ YOLO
 
 ### Skills
 
 <p align="left"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" height="36" alt="Javascript" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" height="36" alt="Typescript" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" height="36" alt="React" /></a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-plain.svg" width="36" height="36" alt="Vue" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="36" height="36" alt="ExpressJS" /></a></p>
-
 
 ### My Socials
 
 <p align="left">
 <a href="https://www.github.com/Jimmylxue" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a><a href="https://space.bilibili.com/304985153?spm_id_from=333.1007.0.0" target="_blank" rel="noreferrer"><img src="data:image/png;base64,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" width="32" height="32" /></a>
 </p>
-
 
 ### My GitHub Stats
 
