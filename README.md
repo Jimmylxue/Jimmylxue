@@ -8,6 +8,7 @@
 - 🚀 I'm currently working on [Fuzhou Tastien Catering Operation Co](https://www.tastien.com/)
 - 🧠 I'm learning React、TypeScript
 - ⚡ Study
+- 🙈 I want to find a remote job！
 
 ### 技能
 
