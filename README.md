@@ -7,7 +7,7 @@
 - ✉️ You can contact me at [1002661758@qq.com](mailto:1002661758@qq.com)
 - 🚀 I'm currently working on [Fuzhou Tastien Catering Operation Co](https://www.tastien.com/)
 - 🧠 I'm learning React、TypeScript
-- ⚡ Study
+- ⚡ I'm learning English and hope to find a foreign friend to teach me English and I will teach you Chinese!
 - 🙈 I want to find a remote job！
 
 ### 技能
