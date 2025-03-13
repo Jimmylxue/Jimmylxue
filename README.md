@@ -16,7 +16,7 @@
 
 ### 🤝 联系方式
 
-<div align="center">
+<div>
   <a href="./assets/profile/wx.jpg">
     <img src="./assets/icon/wx.png" style="width: 50px;" />
   </a>
